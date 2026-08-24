@@ -1,7 +1,7 @@
-// pip install whisper
+# pip install whisper
 import whisper
 
-// your audio file here
+# your audio file here
 file = "audio.mp3"
 
 model = whisper.load_model("base")

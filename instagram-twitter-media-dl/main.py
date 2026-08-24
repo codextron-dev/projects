@@ -1,4 +1,4 @@
-// pip install gallery-dl
+# pip install gallery-dl
 import gallery_dl
  
 url = input("Enter Instagram or Twitter post URL: ")
