@@ -1,3 +1,4 @@
+# pip install speedtest-cli
 import speedtest
 
 st = speedtest.Speedtest()
