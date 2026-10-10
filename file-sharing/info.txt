@@ -1,0 +1,15 @@
+📁 File Sharing Server
+
+1. Put the files and folders you want to share in the same folder as main.py.
+
+2. Open Command Prompt in that folder.
+
+3. Run this command:
+   python main.py
+
+4. Copy the IP address shown in Command Prompt.
+
+5. Open it in any browser on this device or another device connected to the same Wi-Fi.
+
+Example:
+http://192.168.1.5:8000
