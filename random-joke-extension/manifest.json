@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Random Joke",
+  "description": "Get a random joke with one click.",
+  "version": "1.0",
+  "permissions": [],
+  "host_permissions": [
+    "https://v2.jokeapi.dev/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Random Joke"
+  }
+}
